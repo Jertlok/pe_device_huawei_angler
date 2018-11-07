@@ -408,7 +408,8 @@
     <!-- AOD -->
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_displayBlanksAfterDoze">false</bool>
-    
+    <bool name="config_dozeAlwaysOnEnabled">false</bool>
+
     <!-- Enable night mode -->
     <!-- Boolean indicating whether the HWC setColorTransform function can be performed efficiently
          in hardware. -->
